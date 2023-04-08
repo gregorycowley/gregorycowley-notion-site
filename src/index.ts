@@ -4,7 +4,7 @@ import { URL } from 'url';
 import path from 'path';
 
 const {
-  PAGE_URL = 'https://notion.notion.site/Notion-Official-83715d7703ee4b8699b5e659a4712dd8',
+  PAGE_URL = 'https://gregorycowley.notion.site',
   GA_TRACKING_ID,
 } = process.env;
 
